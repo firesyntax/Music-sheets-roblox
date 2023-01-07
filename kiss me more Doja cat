@@ -1,72 +1,160 @@
-[PE]       S    [gE]       S    [qi]       p    [sq]       p 
-   [QI]       P    [SQ]       P    [T*]       i    [O*]       i 
-   [PE]       S    [gE]       S    [qH]       G    [qg]       p 
-   [QI]       P    [SQ]       P    [T*]    [i*]    [O*]       E 
-   [TE]    [iO]       T    [qi]   [qeI]    [ti]    [eI]    [QO] 
-   [QE]    [iT]    [IE]    [O*]    [q*]       I    [iW]       q 
-      E       T       O    [qi]   [qeI]    [ti]    [eI]    [QO] 
-   [QE]    [iT]    [IE]    [O*]    [q*]       I    [iW]       q 
-      E    [TE]    [iS]       T    [sq]    [qe]       P    [tp] 
-   [eP]    [QI]   [iQE]    [iT]    [IE]    [i*]   [qi*]    [iW] 
-      q       E       T       S    [sq]    [qe]       P    [tp] 
-   [eP]    [QI]   [iQE]    [iT]    [IE]    [i*]   [qi*]    [iW] 
-      q       J       L    [cY]    [YL]    [gY]    [jT]    [tl] 
-      j       G       J    [YL]    [iJ]    [YS]    [ig]    [YH] 
-   [ig]    [OJ]       L       i    [cY]       L       i    [pV] 
-      C       i    [cY]       j       i    [PG]       J       i 
-   [YL]       J       Y    [SO]    [ig]    [YH]       H       V 
-   [^E]    [JE]       L    [iL]       c    [gE]       J       L 
-   [sq]       g   [qg4]       j    [tj]       l    [qg]       j 
-      l   [QD$]       G    [ED]       G       J    [TJ]       L 
-   [GE]       J    [P*]       S   [S*!]       g    [qg]       H 
-   [^E]    [JE]       L    [iL]       c    [gE]       J       L 
-   [cO]       V    [qZ]       C    [li]       c    [ge]       j 
-  [QD$]       G    [QD]       G       J    [TJ]       L    [QG] 
-      J    [P*]       S   [S*!]       g    [qg]       H    [^E] 
-   [GE]       J    [ig]       H    [ED]       G    [qS]       g 
-  [qD4]       G    [tS]       g    [sq]       D       s       D 
-   [Q$]    [IE]       P    [TP]       S    [ED]       G   [gS*] 
- [GD*!]   [qgS]    [^E]    [GE]       J    [ig]       H    [ED] 
-      G    [SO]       g    [qD]       G    [iS]       g    [se] 
-      D       s       D    [Q$]    [QI]       P    [TP]       S 
-   [QD]       G   [gS*]  [GD*!]   [qgS]       ^       *       P 
-   [qO]    [WI]    [iQ]    [qY]    [i6]    [I$]    [i^]    [Y*] 
-   [iQ]    [iW]       Q       q       8       ^       *       P 
-   [O4]    [WI]    [iQ]    [YE]    [ie]    [I$]    [i^]    [Y*] 
-   [i%]    [iW]    [uQ]    [qi]       E    [TE]    [iO]       T 
-   [qi]   [qeI]    [ti]    [eI]    [QO]    [QE]    [iT]    [IE] 
-   [O*]    [q*]       I    [iW]       q       E       T       O 
-   [qi]   [qeI]    [ti]    [eI]    [QO]    [QE]    [iT]    [IE] 
-   [O*]    [q*]       I    [iW]       q       E    [TE]       s 
-   [TS]    [qD]   [qeS]    [ts]    [eS]    [QD]   [SQE]    [sT] 
-   [SE]    [g*]   [qD*]    [sW]       q       E       T       s 
-      S    [qO]   [qeI]    [ti]    [eI]    [iQ]   [iQE]    [iT] 
-   [iE]    [i*]    [q*]       i    [iW]       q       J       L 
-   [cY]    [YL]    [gY]    [jT]    [tl]       j       G       J 
-   [YL]    [iJ]    [YS]    [ig]    [YH]    [ig]    [OJ]       L 
-      i    [cY]       L       i    [pV]       C       i    [cY] 
-      j       i    [PG]       J       i    [YL]       J       Y 
-   [SO]    [ig]    [YH]       H       V    [^E]    [JE]       L 
-   [iL]       c    [gE]       J       L    [sq]       g   [qg4] 
-      j    [tj]       l    [qg]       j       l   [QD$]       G 
-   [ED]       G       J    [TJ]       L    [GE]       J    [P*] 
-      S   [S*!]       g    [qg]       H    [^E]    [JE]       L 
-   [iL]       c    [gE]       J       L    [cO]       V    [qZ] 
-      C    [li]       c    [ge]       j   [QD$]       G    [QD] 
-      G       J    [TJ]       L    [QG]       J    [P*]       S 
-  [S*!]       g    [qg]       H    [^E]    [GE]       J    [ig] 
-      H    [ED]       G    [qS]       g   [qD4]       G    [tS] 
-      g    [sq]       D       s       D    [Q$]    [IE]       P 
-   [TP]       S    [ED]       G   [gS*]  [GD*!]   [qgS]    [^E] 
-   [GE]       J    [ig]       H    [ED]       G    [SO]       g 
-   [qD]       G    [iS]       g    [se]       D       s       D 
-   [Q$]    [QI]       P    [TP]       S    [QD]       G   [gS*] 
- [GD*!]   [qgS]       ^       i       u    [i4]       I       i 
-      u       i    [u$]       i    [u*]    [i!]       I       i 
-      u       i    [u^]       i       u    [i4]       O       i 
-      u       i    [Y$]       T    [Y*]    [T!]       Y       i 
-      i       Y       i       ^       i       u    [i4]       I 
-      i       u       i    [u$]       i    [u*]    [i!]       I 
-      i       u       i    [u^]       i       u    [i4]       O 
-      i       u       i       Y    [TP]    [YS]       T    [YH] 
-   [YG]    [gY]
+[9qei] s i s i s i [79ws] i s i [79wa] i a i a
+[80wu] a u a u a u [8qep] u p u p [8qef] [70wd]
+
+[9qe] f d s [79wa] a d [79w] a p a
+[80w] a d a o [8qep] [8qe] [70w]
+[9qe] f d s [79wa] a d [79w] a p a
+[80w] a d d a o [8qep]
+
+[8qes] [70wd] [9qef] f d a s [79wa] o a [79wa] a
+o a a [80wa] o u a [8qep]
+[8qes] [70wd] [9qef] f d a s [79wa] o a [79wa] a
+o a a [80wa] o u a [8qep] [8qe] [70w]
+
+[9qep] o o u u p [79w] o o u u [79w]
+p o o u [80wu] p o o o [8qeo] o
+f d s [8qef] d [70ws] p
+
+[9qep] o o u u p [79w] o o u u [79w]
+p o o u [80wu] p o o o [8qeo] o
+f d s [8qef] d [70ws] p
+- 
+[9qe] a p a d a a [79wp] p a p [79wa] d a a p
+[80wa] p a p a d a a [8qep] a p a [8qed] a [70wa] p
+[9qea] p a p a d a a [79wp] p a p [79wa] d a a p
+[80wa] p a p a d a a [8qep] p a p a [8qed] a [70wa] p
+
+[9qe] o o o o o o a a o
+[79wu] u p o o [79wu] u u u u
+u u [80wo] p u y u u u y u u u
+[8qeu] u u u u [8qeu] u u [70w]
+
+u y [9qeu] u u u u u u
+u y [79wu] u u [79wu] u u u
+u y [80wu] u u u u u u
+u y [8qeu] u u u
+
+[8qes] [70wd] [9qef] f d a s [79wa] o a [79wa] a
+o a a [80wa] o u a [8qep]
+[8qes] [70wd] [9qef] f d a s [79wa] o a [79wa] a
+o a a [80wa] o u a [8qep] [8qe] [70w]
+
+[9qep] o o u u p [79w] o o u u [79w]
+p o o u [80wu] p o o o [8qeo] o
+f d s [8qef] d [70ws] p
+
+[9qep] o o u u p [79w] o o u u [79w]
+p o o u [80wu] p o o o [8qeo] o
+f d s [8qef] d [70ws]
+-
+[9qeu] u u p u u p u p [79w] u u p p p [79wu] u p u p
+[80wp] a o o u u i o t y [8qey]
+p a o o u u i [8qeo] t [79wy] y
+
+[9qeu] u y u y u u y y [79w] u u u y [79wu] u y y
+[80wo] o o u i o t y [8qey]
+o o o u i [8qep] t [79wy] y
+
+[9qe] a o o o o o o p [79wo] u o o o u [79wu] y l t y y
+[80w] y y t y y t y t y y 
+[8qet] y t y t y [8qe] t u [79wr] t
+
+[9qet] o u y u y [79w] a s o [79wu] p
+[80wd] a a s a p o [8qeu] d f p
+
+[8qes] [70wd] [9qef] f d a s [79wa] o a [79wa] a
+o a a [80wa] o u a [8qep]
+[8qes] [70wd] [9qef] f d a s [79wa] o a [79wa] a
+o a a [80wa] o u a [8qep] [8qe] [70w]
+
+[9qep] o o u u p [79w] o o u u [79w]
+p o o u [80wu] p o o o [8qeo] o
+f d s [8qef] d [70ws] p
+
+[9qep] o o u u p [79w] o o u u [79w]
+p o o u [80wu] p o o o [8qeo] o
+f d s [8qef] d [70ws] p
+
+[9qei] s i s i s i [79ws] i s i [79wa] i a i a
+[80wu] a u a u a u [8qep] u p u p [8qef] [70wd]
+--------------------------------------------------------------------------------
+Un-transposed sheet:
+[ETiS] H S H S H S [wEYH] S H S [wEYh] S h S h
+[WtYs] h s h s h s [WTig] s g s g [WTil] [wtYJ]
+
+[ETi] l J H [wEYh] h J [wEY] h g h
+[WtY] h J h D [WTig] [WTi] [wtY]
+[ETi] l J H [wEYh] h J [wEY] h g h
+[WtY] h J J h D [WTig]
+
+[WTiH] [wtYJ] [ETil] l J h H [wEYh] D h [wEYh] h
+D h h [WtYh] D s h [WTig]
+[WTiH] [wtYJ] [ETil] l J h H [wEYh] D h [wEYh] h
+D h h [WtYh] D s h [WTig] [WTi] [wtY]
+
+[ETig] D D s s g [wEY] D D s s [wEY]
+g D D s [WtYs] g D D D [WTiD] D
+l J H [WTil] J [wtYH] g
+
+[ETig] D D s s g [wEY] D D s s [wEY]
+g D D s [WtYs] g D D D [WTiD] D
+l J H [WTil] J [wtYH] g
+- 
+[ETi] h g h J h h [wEYg] g h g [wEYh] J h h g
+[WtYh] g h g h J h h [WTig] g h g h [WTiJ] h [wtYh] g
+[ETih] g h g h J h h [wEYg] g h g [wEYh] J h h g
+[WtYh] g h g h J h h [WTig] g h g h [WTiJ] h [wtYh] g
+
+[ETi] D D D D D D h h D
+[wEYs] s g D D [wEYs] s s s s
+s s [WtYD] g s P s s s P s s s
+[WTis] s s s s [WTis] s s [wtY]
+
+s P [ETis] s s s s s s
+s P [wEYs] s s [wEYs] s s s
+s P [WtYs] s s s s s s
+s P [WTis] s s s
+
+[WTiH] [wtYJ] [ETil] l J h H [wEYh] D h [wEYh] h
+D h h [WtYh] D s h [WTig]
+[WTiH] [wtYJ] [ETil] l J h H [wEYh] D h [wEYh] h
+D h h [WtYh] D s h [WTig] [WTi] [wtY]
+
+[ETig] D D s s g [wEY] D D s s [wEY]
+g D D s [WtYs] g D D D [WTiD] D
+l J H [WTil] J [wtYH] g
+
+[ETig] D D s s g [wEY] D D s s [wEY]
+g D D s [WtYs] g D D D [WTiD] D
+l J H [WTil] J [wtYH]
+-
+[ETis] s s g s s g s g [wEY] s s g g g [wEYs] s g s g
+[WtYg] h D D s s S D O P [WTiP]
+g h D D s s S [WTiD] O [wEYP] P
+
+[ETis] s P s P s s P P [wEY] s s s P [wEYs] s P P
+[WtYD] D D s S D O P [WTiP]
+D D D s S [WTig] O [WTiP] P
+
+[ETi] h D D D D D D g [wEYD] s D D D s [wEYs] P V O P P
+[WtY] P P O P P O P O P P 
+[WTiO] P O P O P [WTi] O s [wEYo] O
+
+[ETiO] D s P s P [wEY] h H D [wEYs] g
+[WtYJ] h h H h g D [WTis] J l g
+
+[WTiH] [wtYJ] [ETil] l J h H [wEYh] D h [wEYh] h
+D h h [WtYh] D s h [WTig]
+[WTiH] [wtYJ] [ETil] l J h H [wEYh] D h [wEYh] h
+D h h [WtYh] D s h [WTig] [WTi] [wtY]
+
+[ETig] D D s s g [wEY] D D s s [wEY]
+g D D s [WtYs] g D D D [WTiD] D
+l J H [WTil] J [wtYH] g
+
+[ETig] D D s s g [wEY] D D s s [wEY]
+g D D s [WtYs] g D D D [WTiD] D
+l J H [WTil] J [wtYH] g
+
+[ETiS] H S H S H S [wEYH] S H S [wEYh] S h S h
+[WtYs] h s h s h s [WTig] s g s g [WTil] [wtYJ]
