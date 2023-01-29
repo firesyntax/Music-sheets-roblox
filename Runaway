@@ -1,87 +1,86 @@
-      x       x       x       f       Z       Z       Z       D 
-      L       L       L       S       j       j       H       x 
-   [W3]       0       W       r    [Wx]       0       W       r 
-   [W3]       0       W       r    [Wx]       0       W       r 
-   [W3]       0       W       r    [Wx]       0       W       r 
-   [W3]       0       W       r    [Wf]       0       W       r 
-   [W@]       (       W       r    [WZ]       (       W       r 
-   [W@]       (       W       r    [WZ]       (       W       r 
-   [W@]       (       W       r    [WZ]       (       W       r 
-   [W@]       (       W       r    [WD]       (       W       r 
-   [0!]       *       0       W    [0L]       *       0       W 
-   [0!]       *       0       W    [0L]       *       0       W 
-   [0!]       *       0       W    [0L]       *       0       W 
-   [0!]       *       0       W    [0S]       *       0       W 
-   [06]       *       0       e    [0j]       *       0       e 
-   [06]       *       0       e    [0j]       *       0       e 
-   [06]       *       0       e    [0H]       *       0       e 
-   [06]       *       0       e       x       O       O   [f30] 
-      a       W    [pr]       W    [O0]       W    [Or]    [fW] 
-   [a0]       W    [pr]       W    [O0]       W    [Or]   [D@(] 
-      S    [DW]       r       W       (       W       r       W 
-      (       W       r       W       (    [HW]    [Hr]    [HW] 
-   [G(]    [GW]    [Gr]       W    [f(]       W    [Gr]       W 
-      (    [fW]       r    [GW]       (    [HW]    [Gr]   [f!*] 
-      0       W       0       *       0       W       0       * 
-      0       W       0       *    [f0]       W    [f0]       * 
-      a       0    [aW]       0       *       0    [OW]    [a0] 
-      *    [O0]       W    [a0]       *    [O0]   [pSW]       6 
-      f       0       e       0       *       0       e       0 
-      *       0       e       0       *    [f0]    [fe]    [f0] 
-   [a*]       0    [ae]       0       *    [O0]       e    [a0] 
-      *    [O0]       e    [a0]       *    [S0]    [ae]    [30] 
-   [Wu]    [0r]    [Wu]   [a0r]   [aWu]   [a0r]   [aWu]    [0r] 
-  [aWu]   [a0r]   [fWu]    [0r]   [aWu]    [0r]   [OWu]    [0r] 
-   [Wu]    [0r]    [Wu]   [a0r]   [aWu]   [a0r]  [aWru]   [aWu] 
-  [a0r]   [fWu]   [ODu]   [Sru]   [D@(]    [WY]    [(r]    [WY] 
-  [D(r]  [fHWY]  [aD(r]  [fHWY]    [(r]  [fHWY]  [DG(r]  [fHWY] 
-   [(r]  [DGWY]    [(r]  [SfWY]    [(r]    [WY]    [(r]    [WY] 
-  [S(r] [OSfWY]   [S(r] [OSfWY]    [(r] [OSfWY]   [S(r] [ODGWY] 
-   [(r] [ODGWY]   [f(r]    [!*]    [0T]    [*W]    [0T]   [S*W] 
-[OSf0T]   [S*W] [OSf0T]    [*W] [OSf0T]   [S*W] [ODG0T]    [*W] 
-[ODG0T]       f    [0T]    [*W]    [0T]    [*W]    [0T]   [S*W] 
-[OSf0T]   [S*W] [OSf0T]    [*W] [OSf0T]   [S*W] [ODG0T]    [*W] 
-[pDG0T]   [f*W]       6    [0T]    [*e]   [a0T]   [a*e]   [a0T] 
-   [*e]   [a0T]    [*e]   [O0T]    [*e]   [O0T]       a       a 
-      a       a       O    [IS]    [Oa]    [W3]       0       W 
-      r    [Wx]       0       W       r    [W3]       0       W 
-      r    [Wx]       0       W       r    [W3]       0       W 
-      r    [Wx]       0       W       r    [W3]       0       W 
-      r    [Wf]       0       W       r    [W@]       (       W 
-      r    [WZ]       (       W       r    [W@]       (       W 
-      r    [WZ]       (       W       r    [W@]       (       W 
-      r    [WZ]       (       W       r    [W@]       (       W 
-      r    [WD]       (       W       r    [0!]       *       0 
-      W    [0L]       *       0       W    [0!]       *       0 
-      W    [0L]       *       0       W    [0!]       *       0 
-      W    [0L]       *       0       W    [0!]       *       0 
-      W    [0S]       *       0       W    [06]       *       0 
-      e    [0j]       *       0       e    [06]       *       0 
-      e    [0j]       *       0       e    [06]       *       0 
-      e    [0H]       *       0       e    [06]       *       0 
-      e       f       O       O   [f30]       a       W    [pr] 
-      W    [O0]       W    [Or]    [fW]    [a0]       W    [pr] 
-      W    [O0]       W    [Or]   [D@(]       S    [DW]       r 
-      W       (       W       r       W       (       W       r 
-      W       (    [HW]    [Hr]    [HW]    [G(]    [GW]    [Gr] 
-      W    [f(]       W    [Gr]       W       (    [fW]       r 
-   [GW]       (    [HW]    [Gr]   [f!*]       0       W       0 
-      *       0       W       0       *       0       W       0 
-      *    [f0]       W    [f0]       *       a       0    [aW] 
-      0       *       0    [OW]    [a0]       *    [O0]       W 
-   [a0]       *    [O0]   [pSW]       6       f       0       e 
-      0       *       0       e    [30]    [Wu]    [0r]    [Wu] 
-  [a0r]   [aWu]   [a0r]   [aWu]    [0r]   [aWu]   [a0r]   [fWu] 
-   [0r]   [aWu]    [0r]   [OWu]    [0r]    [Wu]   [a0r]   [aWu] 
-  [a0r]  [aWru]   [aWu]   [a0r]   [fWu]   [ODu]   [Sru]   [D@(] 
-   [WY]    [(r]    [WY]   [D(r]  [fHWY]  [aD(r]  [fHWY]    [(r] 
- [fHWY]  [DG(r]  [fHWY]    [(r]  [DGWY]    [(r]  [Sf!*]    [0T] 
-   [*W]    [0T]    [*W]    [0T]   [S*W] [OSf0T]   [S*W] [OSf0T] 
-   [*W] [OSf0T]   [S*W] [ODG0T]    [*W] [ODG0T]       f    [0T] 
-   [*W]    [0T]    [*W]    [0T]   [S*W] [OSf0T]   [S*W] [OSf0T] 
-   [*W] [OSf0T]   [S*W] [ODG0T]    [*W] [ODG0T]       f    [0T] 
-   [*W]    [0T]    [*W]    [0T]   [S*W] [OSf0T]   [S*W] [OSf0T] 
-   [*W] [OSf0T]   [S*W] [ODG0T]    [*W] [pDG0T]   [f*W]       6 
-   [0T]    [*e]    [0T]    [*e]    [0T]    [*e]   [k0T]    [*e] 
-      k    [0T]       k    [*e]   [k0T]    [*e]   [H0T]    [*e] 
-   [0T]    [*e]       H       x       x       x       f 
+[x] [x] [x] [f] [Z] [Z] [Z] [D] [L] [L] [L] [S] [j] [j] [H] [x]
+-W3-0Wr-Wx-0Wr
+-W3-0Wr-Wx-0Wr
+-W3-0Wr-Wx-0Wr
+-W3-0Wr-Wf-0Wr
+-W@--Wr-WZ--Wr
+-W@--Wr-WZ--Wr
+-W@--Wr-WZ--Wr
+-W@--Wr-WD--Wr
+-0!-*0W-0L-*0W
+-0!-*0W-0L-*0W
+-0!-*0W-0L-*0W
+-0!-*0W-0S-*0W
+-06-*0e-0j-*0e
+-06-*0e-0j-*0e
+-06-*0e-0H-*0e
+-06-*0exOO-f30-
+aW-pr-W-O0-W-Or--fW-
+-a0-W-pr-W-O0-W-Or--D@--
+S-DW-rW-WrW
+-WrW--HW--Hr--HW-
+-G---GW--Gr-W-f--W-Gr-W
+--fW-r-GW---HW--Gr--f!*-
+0W0*0W0*
+0W0*-f0-W-f0-*
+a0-aW-0*0-OW--a0-
+*-O0-W-a0-*-O0--pSW-6
+f0e0*0e0
+*0e0*-f0--fe--f0-
+-a*-0-ae-0*-O0-e-a0-
+*-O0-e-a0-*-S0--ae--30-
+-Wu--0r--Wu--a0r--aWu--a0r--aWu--0r-
+-aWu--a0r--fWu--0r--aWu--0r--OWu--0r-
+-Wu--0r--Wu--a0r--aWu--a0r--aWru--aWu-
+-a0r--fWu--ODu--Sru--D@---WY---r--WY-
+-D-r--fHWY--aD-r--fHWY---r--fHWY--DG-r--fHWY-
+--r--DGWY---r--SfWY---r--WY---r--WY-
+-S-r--OSfWY--S-r--OSfWY---r--OSfWY--S-r--ODGWY-
+--r--ODGWY--f-r--!*--0T--*W--0T--S*W-
+-OSf0T--S*W--OSf0T--*W--OSf0T--S*W--ODG0T--*W-
+-ODG0T-f-0T--*W--0T--*W--0T--S*W-
+-OSf0T--S*W--OSf0T--*W--OSf0T--S*W--ODG0T--*W-
+-pDG0T--f*W-6-0T--*e--a0T--a*e--a0T-
+-*e--a0T--*e--O0T--*e--O0T-aa
+aaO-IS--Oa--W3-0W
+r-Wx-0Wr-W3-0W
+r-Wx-0Wr-W3-0W
+r-Wx-0Wr-W3-0W
+r-Wf-0Wr-W@--W
+r-WZ--Wr-W@--W
+r-WZ--Wr-W@--W
+r-WZ--Wr-W@--W
+r-WD--Wr-0!-*0
+W-0L-*0W-0!-*0
+W-0L-*0W-0!-*0
+W-0L-*0W-0!-*0
+W-0S-*0W-06-*0
+e-0j-*0e-06-*0
+e-0j-*0e-06-*0
+e-0H-*0e-06-*0
+efOO-f30-aW-pr-
+W-O0-W-Or--fW--a0-W-pr-
+W-O0-W-Or--D@--S-DW-r
+W-WrW-Wr
+W--HW--Hr--HW--G---GW--Gr-
+W-f--W-Gr-W--fW-r
+-GW---HW--Gr--f!*-0W0
+*0W0*0W0
+*-f0-W-f0-*a0-aW-
+0*0-OW--a0-*-O0-W
+-a0-*-O0--pSW-6f0e
+0*0e-30--Wu--0r--Wu-
+-a0r--aWu--a0r--aWu--0r--aWu--a0r--fWu-
+-0r--aWu--0r--OWu--0r--Wu--a0r--aWu-
+-a0r--aWru--aWu--a0r--fWu--ODu--Sru--D@--
+-WY---r--WY--D-r--fHWY--aD-r--fHWY---r-
+-fHWY--DG-r--fHWY---r--DGWY---r--Sf!*--0T-
+-*W--0T--*W--0T--S*W--OSf0T--S*W--OSf0T-
+-*W--OSf0T--S*W--ODG0T--*W--ODG0T-f-0T-
+-*W--0T--*W--0T--S*W--OSf0T--S*W--OSf0T-
+-*W--OSf0T--S*W--ODG0T--*W--ODG0T-f-0T-
+-*W--0T--*W--0T--S*W--OSf0T--S*W--OSf0T-
+-*W--OSf0T--S*W--ODG0T--*W--pDG0T--f*W-6
+-0T--*e--0T--*e--0T--*e--k0T--*e-
+k-0T-k-*e--k0T--*e--H0T--*e-
+-0T--*e-Hxxxf
